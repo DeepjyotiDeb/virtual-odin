@@ -1,2 +1,2 @@
 my first edit from virtual terminal!
-no more exclamation. 
+no more exclamation
